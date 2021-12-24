@@ -1,2 +1,4 @@
-# iconic-heists
-Just an own Coded Malibu-Roleplay/NoPixelServer Script
+# hyper-teleport
+Just an basic teleport that was written in 1 minute
+
+If some one want's it :)
